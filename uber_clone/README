@@ -1,0 +1,21 @@
+# Uber Website Clone
+
+This repository contains a clone of the **Uber** website built using **HTML** and **CSS**. The purpose of this project was to practice web development skills by replicating a popular website layout and design.
+
+## Features
+
+- **Responsive Design**: The website is designed to work on various screen sizes, including mobile and desktop views.
+- **Modern Layout**: The layout mirrors the Uber website, with sections for services, features, and a footer.
+
+## Technologies Used
+
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling the page, including the use of flexbox for layout.
+
+## Installation
+
+To view the website locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/uber-website-clone.git
